@@ -1,0 +1,160 @@
+[
+  {
+    "name": "LXKB",
+    "author": "vaporcoder",
+    "notes": "fn + esc : `\nfn + tab : caps lock\nfn + i : up arrow\nfn + j : left arrow\nfn + k : down arrow\nfn + l : right arrow\nfn + w : up arrow\nfn + a : left arrow\nfn + s : down arrow\nfn + d : right arrow\nfn + h : home\nfn + n : end\nfn + p : page up\nfn + ; : page down\nfn + delete : delete(forward)\nfn + retern : eject"
+  },
+  [
+    {
+      "c": "#eeeeee"
+    },
+    "\nesc",
+    {
+      "a": 5,
+      "f": 4
+    },
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    "_\n-",
+    "+\n=",
+    {
+      "a": 4,
+      "f": 3,
+      "w": 1.5
+    },
+    "\n\n\ndelete"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "\ntab",
+    {
+      "a": 7,
+      "f": 4
+    },
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "a": 5
+    },
+    "{\n[",
+    "}\n]",
+    "|\n\\"
+  ],
+  [
+    {
+      "a": 4,
+      "f": 3,
+      "w": 1.75
+    },
+    "\nfn",
+    {
+      "a": 7,
+      "f": 4
+    },
+    "A",
+    "S",
+    "D",
+    {
+      "n": true
+    },
+    "F",
+    "G",
+    "H",
+    {
+      "n": true
+    },
+    "J",
+    "K",
+    "L",
+    {
+      "a": 5
+    },
+    ":\n;",
+    "\"\n'",
+    {
+      "a": 4,
+      "f": 3,
+      "w": 1.75
+    },
+    "\n\n\nreturn"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "\nshift",
+    {
+      "a": 7,
+      "f": 4
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 5
+    },
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "a": 4,
+      "f": 3,
+      "w": 2.25
+    },
+    "\n\n\nshift"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "\ncontrol",
+    {
+      "w": 1.25
+    },
+    "\n\n\noption",
+    {
+      "w": 1.5
+    },
+    "\n\n\ncommand",
+    {
+      "a": 7,
+      "w": 6
+    },
+    "",
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "\ncommand",
+    {
+      "w": 1.25
+    },
+    "\noption",
+    {
+      "w": 1.5
+    },
+    "\n\n\ncontrol"
+  ]
+]
