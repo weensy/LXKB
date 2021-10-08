@@ -9,6 +9,10 @@ LXKB is an open-source project that makes minimal keyboard with 60 keys.
 The aesthetics of this keyboard are realized in perfect symmetry.  
 It will be useful for coding and writing.
 
+# Purpose of this project
+- Provide gerber files for ordering PCB
+- Provide keymap.json file for QMK Configurator
+
 # Contribute
 
 # License
