@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/logo.png" alt="LXKB Logo" height="30%" width="30%">
+<img src="./img/logo.png" alt="LXKB Logo" width="30%">
 <p>
 <h2 align="center">60% Mechanical Keyboard</h1>
   
