@@ -54,7 +54,7 @@ We want to provide sources for making keyboards that is:
 - The keymap.json file for QMK Configurator
 
 # Contribute
-Do you want to help? That’s awesome. Welcome contributions of all kinds from everyone.
+Do you want to help? That’s awesome. We welcome contributions of all kinds from everyone.
 
 # License
 Licensed under the [CC BY-NC-SA 4.0](./LICENSE).  
