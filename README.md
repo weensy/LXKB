@@ -40,7 +40,10 @@ People place their hands diagonally on the keyboard for body structural reasons.
 <p align="center">
 <img src="./img/comfortable.png" alt="Comfortable range" width="580px">
 <p>
-Blue is left hand, red is right hand. Since the left hand presses the Fn key, the combination keys are placed in the red range.
+Blue is left hand, red is right hand. Since the left hand presses the Fn key, the combination keys are placed in the red range. Here is the result:
+<p align="center">
+<img src="./img/lxkb-windows-fn.png" alt="LXKB for Windows - Fn" width="580px">
+<p>
 
 ### Inspired by
 This layout is inspried by [these keyboards](./inspired.md).
