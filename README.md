@@ -18,7 +18,7 @@ It's in the aesthetics of this keyboard.
 
 ### Aesthetics
 is realized in Symmetry.  
-The following is the layout of LXKB for Windows. *[*see more layouts](.layout.md)*
+The following is the layout of LXKB for Windows. *[*see more layouts](layout.md)*
 <p align="center">
 <img src="./img/lxkb-windows.png" alt="LXKB for Windows" width="580px">
 <p>
