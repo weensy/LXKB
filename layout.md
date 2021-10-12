@@ -1,5 +1,5 @@
 # Layouts of LXKB
-> These were made using keyboard-layout-editor.com
+> These were made using [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/)
 
 - [LXKB for Windows](http://www.keyboard-layout-editor.com/#/gists/499662763cf8b9fc48e7f24f23e9895a)
 <p align="center">
