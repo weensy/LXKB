@@ -36,7 +36,7 @@ As is known, most people feel psychologically secure in symmetry.
 The most striking feature is the position of the Fn key.
 The usage of Caps lock is very infrequent. But among the non-letter keys, it is located in the most convenient place to press. This place is a waste for Caps lock! It is why we put Fn key here.  
 We have placed the rest of combination keys where comfortable to press.
-People place their hands diagonally on the keyboard for body structural reasons. Therefore, the range of keys that can be pressed by moving only your fingers is as follow:
+People place their hands diagonally on the keyboard for body structural reasons. Therefore, the range of keys that can be pressed by moving only a finger from the default position is as follow:
 <p align="center">
 <img src="./img/comfortable.png" alt="Comfortable range" width="580px">
 <p>
