@@ -51,7 +51,7 @@ This layout is inspried by [these keyboards](./inspired.md).
 # Goals
 We want to provide sources for making keyboards that is:
 - The gerber files for ordering PCB
-- THe draw files for ordering Case
+- The draw files for ordering Case
 - The keymap.json file for QMK Configurator
 
 # Contribute
