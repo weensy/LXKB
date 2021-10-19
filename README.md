@@ -53,7 +53,7 @@ We want to provide sources for making keyboards that is:
 - Gerber files for ordering PCB
 - Draw files for ordering Case
 - Keymap.json file for QMK Configurator
-- Manual documentation for ordering, assembly and setting
+- Documentation for ordering, assembly and setting from zero to finished product
 
 # Contribute
 Do you want to help? That’s awesome. We welcome contributions of all kinds from everyone.
