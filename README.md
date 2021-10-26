@@ -48,6 +48,10 @@ Blue is left hand, red is right hand. Since the left hand presses the Fn key, th
 ### Inspired by
 This layout is inspried by [these keyboards](./inspired.md).
 
+### Keycaps
+This layout is not standard, so be careful when buying keycaps.  
+[Here](./keycaps.md) is a list of compatible keycap sets.
+
 # Goals
 We want to provide sources for making keyboards that is:
 - Gerber files for ordering PCB
