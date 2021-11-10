@@ -62,6 +62,12 @@ We want to provide sources for making keyboards that is:
 # Contribute
 Do you want to help? That’s awesome. We welcome contributions of all kinds from everyone.
 
+# Open-source
+The following open-source software was used for this project. Thanks for everything:
+- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
+- [Keyboard tools](http://keyboard-tools.xyz/)
+- [Freerouting](https://github.com/freerouting/freerouting)
+
 # License
 Licensed under the [CC BY-NC-SA 4.0](./LICENSE).  
 Almost everything is permitted, but not for commercial use.
